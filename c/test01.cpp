@@ -6,7 +6,7 @@ int main(){
 	cout<<"hello github"<<endl;
 	cout<<"hello user ,welcome to you!"<<endl;
 	cout<<"that's all right"<<endl;
-	cout<<"hahha"<<endl;
+	
 	return 0;
 
 
